@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1343250945 source:c:\users\david\desktop\space invaders\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space invaders\inicia.h
+
+1370108260 source:c:\users\david\desktop\space invaders\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"disparos.h"
+
+1370109028 c:\users\david\desktop\space invaders\disparos.h
+	<allegro.h>
+
+1370109016 source:c:\users\david\desktop\space invaders\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\1 explicacion\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\1 explicacion\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\1 explicacion\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\1 explicacion\disparos.h
+	<allegro.h>
+
+1343250945 source:c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 c:\users\david\desktop\space youtube\codigo base space invadrs\inicia.h
+
+1370109016 source:c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	<allegro.h>
+
+1370109028 c:\users\david\desktop\space youtube\codigo base space invadrs\disparos.h
+	<allegro.h>
+
+1636403594 source:c:\users\matia\desktop\codigo base space invadrs\disparos.cpp
+	"disparos.h"
+	"personajes.h"
+	<allegro.h>
+
+1636403189 c:\users\matia\desktop\codigo base space invadrs\disparos.h
+	<allegro.h>
+	"personajes.h"
+
+1343243745 source:c:\users\matia\desktop\codigo base space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\matia\desktop\codigo base space invadrs\inicia.h
+
+1636403594 source:c:\users\matia\desktop\codigo base space invadrs\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	"inicia.h"
+	"disparos.h"
+	"personajes.h"
+	"diseno.h"
+
+1636403594 c:\users\matia\desktop\codigo base space invadrs\personajes.h
+	<allegro.h>
+
+1636403594 source:c:\users\matia\desktop\codigo base space invadrs\personajes.cpp
+	"personajes.h"
+	"disparos.h"
+	<allegro.h>
+
+1636401540 source:c:\users\matia\desktop\codigo base space invadrs\diseno.cpp
+	"diseno.h"
+	<allegro.h>
+
+1636400995 c:\users\matia\desktop\codigo base space invadrs\diseno.h
+	<allegro.h>
+
+1636401540 source:c:\users\matia\desktop\space invadrs\diseno.cpp
+	"diseno.h"
+	<allegro.h>
+
+1636400995 c:\users\matia\desktop\space invadrs\diseno.h
+	<allegro.h>
+
+1636431500 source:c:\users\matia\desktop\space invadrs\disparos.cpp
+	"disparos.h"
+	"personajes.h"
+	<allegro.h>
+
+1636431500 c:\users\matia\desktop\space invadrs\disparos.h
+	<allegro.h>
+	"personajes.h"
+
+1636432035 c:\users\matia\desktop\space invadrs\personajes.h
+	<allegro.h>
+
+1343243745 source:c:\users\matia\desktop\space invadrs\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341428602 c:\users\matia\desktop\space invadrs\inicia.h
+
+1636431966 source:c:\users\matia\desktop\space invadrs\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	<time.h>
+	"inicia.h"
+	"disparos.h"
+	"personajes.h"
+	"diseno.h"
+
+1636431966 source:c:\users\matia\desktop\space invadrs\personajes.cpp
+	"personajes.h"
+	"disparos.h"
+	"diseno.h"
+	<allegro.h>
+
